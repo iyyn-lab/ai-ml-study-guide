@@ -1,23 +1,64 @@
-Lrning HubAcoprheivelerng rpositoyfor ifici Itline Mhin Larng, nd Agntic AI
-##📁 Repsorrutre
+# AI & ML Learning Hub
 
-### 🤖 [AI & ML Rodp](AI&LRoap/Themin tudygui cog foion concept o nc opicAI  ML:
-- ****: ecs, prmmg upDta Handling: Wrlinand Explorary DaaAsis
--**Macie Leanin** Suevise, uvised,and valuatin
--**DeeLearng**: Neurtwrs,framewks,architectrs
--Projets & Deplymet:Prtclalcatiodeymentatg-**AvceTpcs**: NLPCmpute,ReinforcemenLer###🧠 AI Aet & Aentic AIAIAet%20&%20Aetic%20AI/*oms...*h secionwll cover:IAgents nd heirchiectures
--getic AI principe  mementins
-- Muli-get stes-Auomoudec-making-Rl-woldaget applcaion
-🚀 QuckStt1.AI & ML Fndamntal:Sttwth AI & M Rodmp/Roda.mdAI%20&%20Roadmp/Rodamd**Follw the ruturedlang path**frmbai t advac top3**Exlepraicalexmpl**d rlword ppl4.Cotbutbyddgctther seco📚 Path
-```├── AI & MLRoadmp/│   ├──Fundamntals (Mah, Pgrammig)│   ├──Daa Handlng (Wrnglg, EDA)│   ├──Mhine Leaning(Suervsd/Unupvied)│   ├──DeepLarnig (NulNwok)│├──│  └──AvandTpic
-│└──A Ant &Agent AI/    ├──Agrchttur    ├──Muti-Ag yst
-  ├──uonoousAgnts    └──Agent AI```## 🤝ntribing
+A comprehensive learning repository for Artificial Intelligence, Machine Learning, and Agentic AI.
 
-We welcom contbuts! Please: Addcontt t xistigsctos Expand the AIAgt & Agnc section- Imprve expanationandxmplReprtssesrsggest newtpics
+## 📁 Repository Structure
 
-##📄License
-Thisrpoiory is opensoundaible ude [MIT Lense](LICENSE).
+### 🤖 [AI & ML Roadmap](AI%20&%20ML%20Roadmap/)
+The main study guide covering foundational concepts to advanced topics in AI and ML:
+- **Fundamentals**: Mathematics, programming setup
+- **Data Handling**: Wrangling and Exploratory Data Analysis
+- **Machine Learning**: Supervised, unsupervised, and evaluation
+- **Deep Learning**: Neural networks, frameworks, architectures
+- **Projects & Deployment**: Practical applications and deployment strategies
+- **Advanced Topics**: NLP, Computer Vision, Reinforcement Learning
+
+### 🧠 [AI Agent & Agentic AI](AI%20Agent%20&%20Agentic%20AI/)
+*Coming soon...*
+This section will cover:
+- AI Agents and their architectures
+- Agentic AI principles and implementations
+- Multi-agent systems
+- Autonomous decision-making
+- Real-world agent applications
+
+## 🚀 Quick Start
+
+1. **AI & ML Fundamentals**: Start with [AI & ML Roadmap/Roadmap.md](AI%20&%20ML%20Roadmap/Roadmap.md)
+2. **Follow the structured learning path** from basics to advanced topics
+3. **Explore practical examples** and real-world applications
+4. **Contribute** by adding content to either section
+
+## 📚 Learning Path
+
+```
+├── AI & ML Roadmap/
+│   ├── Fundamentals (Math, Programming)
+│   ├── Data Handling (Wrangling, EDA)
+│   ├── Machine Learning (Supervised/Unsupervised)
+│   ├── Deep Learning (Neural Networks)
+│   ├── Projects & Deployment
+│   └── Advanced Topics
+│
+└── AI Agent & Agentic AI/
+    ├── Agent Architectures
+    ├── Multi-Agent Systems
+    ├── Autonomous Agents
+    └── Advanced Agentic AI
+```
+
+## 🤝 Contributing
+
+We welcome contributions! Please:
+- Add content to existing sections
+- Expand the AI Agent & Agentic AI section
+- Improve explanations and examples
+- Report issues or suggest new topics
+
+## 📄 License
+
+This repository is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Happy Lerning!**🎓🤖
+**Happy Learning!** 🎓🤖
