@@ -29,7 +29,7 @@
 ## **Machine Learning**
 ---
 - **Supervised**
-	1. [[Linear Regression]]
+	1. Linear Regression
 	![Linear Classifier Example](Medias/Linear%20Classifier%20Example.png)
 	2. Logistic Regression
 	3. Decision Trees
