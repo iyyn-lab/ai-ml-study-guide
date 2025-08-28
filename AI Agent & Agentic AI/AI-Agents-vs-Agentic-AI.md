@@ -77,15 +77,15 @@ An **AI agent** is a software program designed to perform specific, well-defined
 
 ## 📊 Comparison Table
 
-| Aspect | AI Agent | Agentic AI |
-|--------|----------|------------|
-| **Scope** | Single-purpose tool | Multi-agent ecosystem |
-| **Autonomy** | Limited, rule-based | High, independent |
-| **Decision Making** | Reactive, predefined | Proactive, adaptive |
-| **Learning** | Static, update-dependent | Dynamic, continuous |
-| **Complexity** | Simple tasks | Complex workflows |
-| **Human Oversight** | Moderate | Minimal |
-| **Examples** | Chatbots, assistants | Self-driving cars, cybersecurity |
+| Aspect              | AI Agent                 | Agentic AI                       |
+| ------------------- | ------------------------ | -------------------------------- |
+| **Scope**           | Single-purpose tool      | Multi-agent ecosystem            |
+| **Autonomy**        | Limited, rule-based      | High, independent                |
+| **Decision Making** | Reactive, predefined     | Proactive, adaptive              |
+| **Learning**        | Static, update-dependent | Dynamic, continuous              |
+| **Complexity**      | Simple tasks             | Complex workflows                |
+| **Human Oversight** | Moderate                 | Minimal                          |
+| **Examples**        | Chatbots, assistants     | Self-driving cars, cybersecurity |
 
 ## 🚀 Practical Applications
 
